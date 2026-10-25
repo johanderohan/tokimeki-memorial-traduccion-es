@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/tokimeki-memorial)**.
+
 Traducción al **español de España** de *Tokimeki Memorial ~Densetsu no Ki no Shita de~*
 (Super Famicom, Konami, 1996), el simulador de citas en el que pasas tres cursos en el
 Instituto Kirameki esperando que, el día de la graduación, una chica se te declare bajo el
